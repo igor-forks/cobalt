@@ -8,12 +8,5 @@ node_modules
 # static build
 build
 
-# secrets
-.env
-.env.*
-!.env.example
-cookies.json
-keys.json
-
 # ide
 .vscode
